@@ -27,6 +27,3 @@ foreach(["hehe", "hehehe", "hehehehe"] as $hehe) {
 		return view("hehehe");
 	});
 }
-
-
-
